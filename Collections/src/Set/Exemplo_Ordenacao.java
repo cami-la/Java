@@ -57,6 +57,7 @@ public class Exemplo_Ordenacao {
 }
 
 class Serie implements Comparable<Serie> {
+
     private String nome;
     private String genero;
     private Integer tempoEpisodio;
